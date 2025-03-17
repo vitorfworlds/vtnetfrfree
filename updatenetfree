@@ -1,10 +1,10 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "release_notes": "Configuração VIVO 1 e 2",
   "servers": [
     {
       "id": 1,
-      "name": "VIVO 1",
+      "name": "VIVO 24124",
       "host": "143.137.189.168",
       "port": 7300,
       "type": "direct",
